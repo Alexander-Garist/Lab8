@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/servlet/ChatServlet.java=UTF-8
+encoding//src/main/java/servlet/ChatViewServlet.java=UTF-8
+encoding//src/main/java/servlet/LoginServlet.java=UTF-8
+encoding//src/main/java/servlet/MessageListServlet.java=UTF-8
+encoding//src/main/java/servlet/NewMessageServlet.java=UTF-8
